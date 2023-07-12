@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ulyafaroha
+- 👋 Hi, I’m @miyuki
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning python
 
 <!---
-Ulyafaroha/Ulyafaroha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+miyuki/miyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
